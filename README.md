@@ -1,5 +1,5 @@
 # Bank-JS
-JS Course
+JS application 2
 
 Basic Java Script project featuring many functionalities of a bank application. 
 
